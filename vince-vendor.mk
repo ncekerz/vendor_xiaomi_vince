@@ -1326,5 +1326,4 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.alarm-V1.0-java \
     vendor.qti.hardware.data.latency-V1.0-java \
     vendor.qti.hardware.soter-V1.0-java \
-    vendor.qti.latency-V2.0-java \
-    chargeonlymode
+    vendor.qti.latency-V2.0-java
